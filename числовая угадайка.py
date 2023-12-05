@@ -12,7 +12,6 @@ def is_valid(num):
         return False
 
 flag = False
-flag1 = "д"
 count = 1
 rand_num = random.randint(1, g)
 while flag == False:
